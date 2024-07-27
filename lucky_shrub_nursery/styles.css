@@ -1,0 +1,43 @@
+.card {
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    border-bottom: 1px solid #ddd;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Footer Styling */
+footer {
+    background: #333;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.875rem;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .banner {
+        padding: 40px 0;
+    }
+    
+    .footer-logo {
+        margin-bottom: 10px;
+    }
+}
+/* Style for the banner content */
+.banner-content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
