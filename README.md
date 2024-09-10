@@ -1,2 +1,1 @@
-# portfolio
-This is my collection of projects 
+Basic responsive website for lucky shrub nursery 
