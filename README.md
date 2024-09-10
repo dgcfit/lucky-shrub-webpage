@@ -1,1 +1,1 @@
-Basic responsive website for lucky shrub nursery 
+Basic responsive webpage for lucky shrub nursery 
